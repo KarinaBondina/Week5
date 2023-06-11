@@ -2,15 +2,14 @@
     display: flex;
     justify-content: center;
     font-weight: bold;
-    font-size: xx-large;
+    font-size: large;
     padding: 30px;
 }
 .email {
     display: flex;
     justify-content: center;
     font-weight: bold;
-    font-size: xx-large;
-    margin: 20px;
+    font-size: large;
 }
 .img {
     display: flex;
